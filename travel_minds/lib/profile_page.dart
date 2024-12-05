@@ -19,12 +19,12 @@ class ProfilePage extends StatelessWidget {
             ),
             SizedBox(height: 16),
             Text(
-              'Welcome, User!',
+              'Welcome, User',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 8),
             Text(
-              'Email: user',
+              'mail: user',
               style: TextStyle(fontSize: 16, color: Colors.grey),
             ),
           ],
